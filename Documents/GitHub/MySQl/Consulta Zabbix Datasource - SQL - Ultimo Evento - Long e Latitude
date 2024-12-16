@@ -1,4 +1,5 @@
---Formatado para trazer ultimo evento e data junto com lat and long
+--Formatado para trazer último evento e data junto com lat and long
+-- Consulta serve para estrutura do Banco de Dados MySQL - Zabbix Ver 4.5
 
 SELECT 
     e.eventid AS EVENTID,
