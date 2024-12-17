@@ -1,0 +1,1 @@
+zabbix_sender -z 172.16.30.113 -s "$ip" -k "packet_loss_200.179.93.161" -o "100"
